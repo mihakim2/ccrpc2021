@@ -1,5 +1,5 @@
 
-<h3>Project Introduction <h3><br>
+# Project Introduction <br>
 My intention in this project is to explore the data available on Crunchbase.com, a famous enterprise data website for reporting metrics on companies including startups globally. The website releases its own rankings known as CB Rank (crunchbase rank). <br>
 
 
