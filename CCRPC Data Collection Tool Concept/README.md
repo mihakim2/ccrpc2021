@@ -8,3 +8,5 @@ Login- admin <br>
 Pw- ccrpc2021
 
 ![alt text](https://github.com/mihakim2/ccrpc2021/blob/main/CCRPC%20Data%20Collection%20Tool%20Concept/Screenshot1.png)
+<br>
+![alt text](https://github.com/mihakim2/ccrpc2021/blob/main/CCRPC%20Data%20Collection%20Tool%20Concept/Screenshot2.png)
